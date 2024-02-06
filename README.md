@@ -4,7 +4,7 @@ This project uses the K-Nearest Neighbors (KNN) algorithm to predict the likelih
 
 ## Dataset
 
-The dataset used for this project is [Diabetes Dataset]
+The dataset used for this project is Diabetes Dataset
 ```bash
 https://www.kaggle.com/datasets/saurabh00007/diabetescsv?resource=download
 ```
